@@ -1,0 +1,14 @@
+# Tested with Python 3.12, scikit-learn 1.9, pandas 3.0,
+# XGBoost 3.4, NumPy 2.5 and matplotlib 3.11.
+# Ranges are kept open so the project also runs on newer releases.
+
+numpy>=1.24
+pandas>=2.0
+scikit-learn>=1.2
+xgboost>=2.0
+matplotlib>=3.6
+scipy>=1.10
+
+# Notebook environment
+jupyter
+ipykernel
